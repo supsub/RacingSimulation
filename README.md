@@ -7,3 +7,5 @@ In order to update weight and biases of neural network, i used genetic algorithm
 
 ### Architecture
 ![Imgur Image](https://i.imgur.com/My02iE7.png)
+
+![Imgur Image](https://i.imgur.com/KKeauVF.jpg)
